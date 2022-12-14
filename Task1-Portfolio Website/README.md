@@ -1,17 +1,19 @@
-# CodeClause_Task-01
+# Task-01 Portfolio Website
 
-Task - 01 Portfolio Website
+#### Code Editor used: Visual Studio Code
+#### Tech Stack Used: HTML, CSS, JavaScript
+### Website is live: https://mohammadammar.epizy.com/
 
-Create Personal Portfolio Website using HTML, CSS, Javascript.
+## Screenshort:
+## 1. Home
+![1 (1)](https://user-images.githubusercontent.com/90950477/207563956-c458a3cc-9c56-4031-be08-bdd39872f5f3.png)
 
-![1(1)](https://user-images.githubusercontent.com/90950477/205455104-7cd84a52-b8dd-44cc-aeef-62e3109b7402.png)
+## 2. About 
+![1 (2)](https://user-images.githubusercontent.com/90950477/207563966-68856b00-58d8-4826-9364-6e5244ac01f0.png)
 
-![1(2)](https://user-images.githubusercontent.com/90950477/205455106-67a52639-00aa-4659-8dae-1a1d2e24d70b.png)
+## 3. Services
+![1 (3)](https://user-images.githubusercontent.com/90950477/207563970-dce6c27a-112d-4933-a273-2a9b443b428a.png)
 
-![1(3)](https://user-images.githubusercontent.com/90950477/205455109-cf934497-e691-4784-8d75-94491052b4ec.png)
+## 4. Contact
+![1 (4)](https://user-images.githubusercontent.com/90950477/207563973-b81fe4a8-776c-49ed-bef8-403b341d4df6.png)
 
-![1(4)](https://user-images.githubusercontent.com/90950477/205455110-658f489e-6033-4795-a32c-078ca16b219f.png)
-
-![1(5)](https://user-images.githubusercontent.com/90950477/205455111-f372a88f-b15a-4e8f-a389-fe2d36b60390.png)
-
-![1(6)](https://user-images.githubusercontent.com/90950477/205455113-b485193c-8c95-45de-96e6-35125c553dcc.png)
