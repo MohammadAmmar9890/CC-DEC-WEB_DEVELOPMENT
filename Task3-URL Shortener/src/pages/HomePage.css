@@ -1,0 +1,72 @@
+body {
+  background: linear-gradient(-45deg, #dcee52b6, #7b3ce7bd, #d53823ae, #238bd5bc);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+.right {
+  min-height: 100%;
+  border: 3px solid rgb(6, 7, 7);
+  display: flex;
+  flex: 1 1;
+  flex-direction: column;
+  padding: 1.25rem;
+  margin-left: 521px;
+  margin-right: 529px;
+  margin-top: 100px;
+  align-content: center;
+  justify-content: center;
+  border-radius: 20px;
+
+}
+
+.right-text h1 {
+  font-family: monospace;
+  font-size: 35px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.right-text p {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.gen-link p {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.right-text>h3 {
+  /* margin: 20px; */
+  text-align: center;
+  color: #ff0054;
+}
+
+
+.heading {
+  color: #ff0054;
+  text-align: center;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}

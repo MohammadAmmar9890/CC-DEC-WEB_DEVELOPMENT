@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+}
+
+body {
+  font-family: "Xanh Mono", monospace;
+  color: rgb(0, 0, 0);
+  font-weight: 100px;
+  margin: 0px;
+}
