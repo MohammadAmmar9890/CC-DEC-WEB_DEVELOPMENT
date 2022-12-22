@@ -1,0 +1,214 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  overflow-x: hidden;
+  background-image: url("images/bg.jpg");
+}
+
+/* --------navbar------------- */
+header {
+  height: 10vh;
+  width: 100%;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  top: 0;
+}
+
+.logo {
+  width: 30%;
+  float: left;
+  margin-left: 50px;
+  line-height: 10vh;
+}
+
+.logo a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #000;
+  font-weight: bolder;
+}
+
+nav {
+  float: right;
+  line-height: 10vh;
+}
+
+nav a {
+  text-decoration: none;
+  font-size: 1rem;
+  color: rgb(0, 0, 0);
+  margin-right: 50px;
+}
+
+nav a:hover {
+  text-decoration-line: underline;
+}
+
+/* -------home page------------ */
+#home-page {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.heading {
+  padding-bottom: 2rem;
+  font-size: 3rem;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 10px #000;
+}
+
+#button {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #fff;
+  border-radius: 1rem;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  text-decoration: none;
+}
+
+#button:hover {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.762);
+  transform: scale(1.1);
+  transition: 0.2s ease-out;
+}
+
+/* --------Donation page------------ */
+#donation-page {
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(0, 0, 0, 0.762);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading1 {
+  color: rgb(255, 255, 255);
+}
+
+.heading2 {
+  color: rgb(255, 255, 255);
+}
+
+.heading2 {
+  font-size: 1.5rem;
+  font-style: italic;
+  text-shadow: none;
+}
+
+#btn2 {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-radius: 1rem;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+
+}
+
+#btn2:hover {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.762);
+  transform: scale(1.1);
+  transition: 0.2s ease-out;
+}
+
+/* ----------about page------------- */
+#information-page {
+  height: 100vh;
+  width: 100vw;
+  padding-left: 0px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.title {
+  margin-top: 58px;
+  margin-bottom: 12px;
+  display: flex;
+  color: rgb(0, 0, 0);
+  font-size: 2rem;
+  align-content: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.description {
+  width: 56%;
+  text-align: center;
+  line-height: 35px;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+/* ------------Contact page----------- */
+#contact-page {
+  background-color: rgb(0, 0, 0, 0.8);
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+
+.cont-name {
+  margin-top: 0px;
+  margin-bottom: 30px;
+  padding-top: 24px;
+  color: rgb(255 255 255);
+  font-size: 2rem;
+}
+
+.cont-info {
+  line-height: 1.5rem;
+  color: #fff;
+  padding-bottom: 8px;
+}
+
+img {
+  height: 30px;
+  width: 30px;
+  border-radius: 6px;
+}
+
+/* ----------footer---------- */
+footer {
+  background: #111;
+  padding: 15px 23px;
+  color: #fff;
+  text-align: center;
+}
+
+footer span a {
+  color: crimson;
+  text-decoration: none;
+}
+
+footer span a:hover {
+  text-decoration: underline;
+}
