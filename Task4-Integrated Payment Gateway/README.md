@@ -1,4 +1,4 @@
-# Task-04: Payment Gateway Integrated Website
+# Task-04: Integrated Payment Gateway
 
 #### Code Editor used: Visual Studio Code
 #### Tech Stack Used: HTML, CSS, JavaScript
